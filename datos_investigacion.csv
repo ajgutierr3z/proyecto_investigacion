@@ -1,0 +1,11 @@
+ID_Estudiante,Edad,Semestre,Nivel_Ansiedad,Horas_Estudio_Semanal,Metodo_Estudio_Principal,Calificacion_Final,Asistencia_Clases_Porcentaje
+101,19,2,Alto,12,Subrayado,78.5,85
+102,21,6,Medio,18,Mapas_Mentales,92.0,95
+103,20,4,Bajo,22,Pomodoro,88.5,100
+104,22,8,Alto,10,Lectura_Simple,71.0,70
+105,19,2,Medio,15,Subrayado,80.0,90
+106,23,8,Bajo,25,Pomodoro,95.5,98
+107,20,4,Alto,8,Lectura_Simple,65.0,60
+108,21,6,Medio,20,Mapas_Mentales,89.0,92
+109,19,2,Alto,14,Subrayado,75.0,80
+110,22,8,Bajo,24,Pomodoro,94.0,100
