@@ -1,0 +1,16 @@
+ID_Estudiante,Horas_Estudio_Semanal,Metodo_Estudio,Nivel_Estres,Calificacion_Final
+EST-001,12,Practica,Bajo,92
+EST-002,5,Lectura,Alto,65
+EST-003,8,Videos,Medio,78
+EST-004,15,Practica,Bajo,95
+EST-005,4,Lectura,Alto,60
+EST-006,10,Lectura,Medio,82
+EST-007,7,Videos,Alto,70
+EST-008,14,Practica,Medio,88
+EST-009,6,Lectura,Bajo,75
+EST-010,9,Videos,Medio,80
+EST-011,11,Practica,Alto,85
+EST-012,3,Videos,Alto,55
+EST-013,13,Lectura,Bajo,90
+EST-014,8,Practica,Medio,79
+EST-015,10,Videos,Bajo,84
